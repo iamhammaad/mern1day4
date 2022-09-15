@@ -1,0 +1,61 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-top: 10px; /* Added */
+    margin-top: 250px;
+    border-radius: 40px;
+}
+
+.background{
+
+    background-color: grey;
+}
+
+.city{
+    margin-left: 0px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.time{
+    margin-right: 0px;
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+}
+
+
+.temperature-class{
+
+
+    font-size: xxx-large;
+    margin-left: 60px;
+}
+
+
+.stormy{
+
+    margin-left: 95px;
+    color: grey;
+}
+
+.cloud-icon{
+
+    margin-right: 0px;
+    display: inline-block;
+    float: right;
+    color: rgb(112, 177, 220);
+    
+
+}
+
+.wind{
+    color: grey;
+}
+.droplet{
+
+    color: grey;
+}
+.sun{
+    color: grey;
+}
